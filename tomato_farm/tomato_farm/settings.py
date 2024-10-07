@@ -82,7 +82,7 @@ DATABASES = {
         'USER': 'farm_user',
         'PASSWORD': 'password',
         'HOST': 'localhost',
-        'PORT': '5432',
+        'PORT': '6432',
     }
 }
 
